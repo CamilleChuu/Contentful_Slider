@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/", "destination": "/question_matrix.html" }
+    { "source": "/", "destination": "/slider.html" }
   ]
 }
